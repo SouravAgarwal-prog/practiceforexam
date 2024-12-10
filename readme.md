@@ -28,8 +28,8 @@ i am in parallel branch
 - second
 - third
 ### Task list
-[x]git
-[] latex
+- [x] git
+- [] latex
 
 ## Footnotes
 - This is a simple Footnotes [^1]
@@ -48,7 +48,7 @@ git commit -m "masg"
 ```
 ## Maths
 - To write maths use latex like format:-
-$ \sqrt{\frac{1+3x}{x}} $
+- $\sqrt{\frac{1+3x}{x}}$
 
 ## Tables:-
 |R No        |Student           |

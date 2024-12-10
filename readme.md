@@ -52,7 +52,7 @@ git commit -m "masg"
 
 ## Tables:-
 |R No        |Student           |
-|            |                  |
+|------------|------------------|   
 |2023UCP1627 |Sourav Agarwal    |
 |2023UCP1628 |Sandeep Khachariya|
 |2023UCP1629 |Jorawarsingh      |
